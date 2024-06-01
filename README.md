@@ -13,4 +13,4 @@ https://www.kaggle.com/datasets/ruthgn/bank-marketing-data-set
 - Irinie Magued
 
 ## nbviewer
-https://nbviewer.org/github/Menna2002/BankMarketing/blob/master/src/SVM.ipynb
+https://nbviewer.org/github/Menna2002/BankMarketing/blob/master/src/Prediction.ipynb
