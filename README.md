@@ -3,7 +3,7 @@ This dataset contains records relevant to a direct marketing campaign of a Portu
 The classification goal is to predict if the client will subscribe (yes/no) to the term deposit.
 
 ## Source Of Data
-https://www.kaggle.com/datasets/ruthgn/bank-marketing-data-set
+https://www.kaggle.com/datasets/berkayalan/bank-marketing-data-set
 
 ## Contributors
 - Elham Hamed
